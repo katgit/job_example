@@ -2,6 +2,9 @@
 
 #$ -j y
 #$ -N example
+#$ -P krcs
+
+
 
 module load python3
 
