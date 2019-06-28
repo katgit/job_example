@@ -2,7 +2,7 @@
 
 #$ -j y
 #$ -N example
-#$ -P krcs
+#$ -P scv
 
 
 
